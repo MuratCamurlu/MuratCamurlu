@@ -6,4 +6,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on a work
 - 💬 Ask me about anything
 - 📫 How to reach me: www.linkedin.com/in/muratcamurlu
-- ⚡ Fun fact:offroad bicycl rider🚲
+- ⚡ Fun fact:offroad bicycle rider🚲
