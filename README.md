@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: www.linkedin.com/in/muratcamurlu
 - ⚡ Fun fact:offroad bicycl rider🚲
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical
