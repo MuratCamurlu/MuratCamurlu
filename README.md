@@ -21,6 +21,6 @@ mcamurlu1923@gmail.com
 <img align="left" alt="Bootstrap" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/bootstrap/bootstrap.png" />
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
  <br/>
- ![Github stats 2](https://github-readme-stats.vercel.app/api?username=MuratCamurlu&show_icons=true&theme=radical)
+
  <img width="700rem" height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuratCamurlu&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
  
