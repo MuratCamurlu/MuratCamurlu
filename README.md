@@ -31,7 +31,8 @@ mcamurlu1923@gmail.com
  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 </p>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/>
+
 
  <img width="700rem" height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuratCamurlu&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
  
