@@ -33,7 +33,7 @@ mcamurlu1923@gmail.com
 
 <br/><br/>
 
- <img width="700rem" height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=MuratCamurlu&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
+ 
 
  <img width="700rem" height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuratCamurlu&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
  
