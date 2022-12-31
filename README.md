@@ -3,6 +3,7 @@
 -I'm a Student 👨‍🎓, Full Stack Developer 🚀
 - 🔭 I’m currently working on JavaScript
 - 🔭 I’m currently working on TypeScript
+- 🔭 I’m currently working on Django
 - 🌱 I’m currently learning react
 - 💬 Ask me about anything
 - 📫 How to reach me: </br>
