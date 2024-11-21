@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on JavaScript
 - 🔭 I’m currently working on TypeScript
 - 🔭 I’m currently working on Django
-- 🌱 I’m currently learning react
+- 🌱 I’m currently working React and React Native
 - 💬 Ask me about anything
 - 📫 How to reach me: </br>
 www.linkedin.com/in/muratcamurlu</br>
